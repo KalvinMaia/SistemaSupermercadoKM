@@ -57,6 +57,7 @@ O sistema aplica diferentes fórmulas para chegar ao valor final de um item:
     ```
 
 ### Exemplo de Saída no Console:
+
 ===== TALÃO DE COMPRA =====
 Produto: Leite
 Fornecedor: Fazenda Local
@@ -72,8 +73,6 @@ País: EUA
 Preço base: R$ 3000.0
 Preço final: R$ 5175.0
 --------------------------
-TOTAL A PAGAR: R$ 5187.6
-> ```
 
 ---
 
