@@ -36,8 +36,7 @@ public class Fornecedor {
     }
 
     public void exibirDetalhesFornecedor() {
-        System.out.println("Fornecedor: " + nomeEmpresa);
-        System.out.println("NIF: " + nif);
-        System.out.println("País: " + paisOrigem);
+        System.out.println("Fornecedor: " + nomeEmpresa + " | " + "NIF: " + nif + " | " + "País: " + paisOrigem);
+
     }
 }

@@ -16,12 +16,12 @@ public class CarrinhoDeCompras {
     public void processarCompra() {
         float total = 0;
 
-        System.out.println("===== TALÃO DE COMPRA =====");
+        System.out.println("===== TALÃO DE COMPRA =====" + System.lineSeparator());
 
         for (Produto p : itens) {
             p.exibirResumo();
             double precoFinal = p.calcularPrecoFinal();
-            System.out.println("Preço final: R$ " + precoFinal);
+            System.out.println("Preço final (com taxas/descontos): R$ " + precoFinal);
             System.out.println("--------------------------");
             total += precoFinal;
         }
