@@ -58,21 +58,24 @@ O sistema aplica diferentes fórmulas para chegar ao valor final de um item:
 
 ### Exemplo de Saída no Console:
 
-===== TALÃO DE COMPRA =====
-Produto: Leite
-Fornecedor: Fazenda Local
-NIF: 123456
-País: Brasil
-Preço base: R$ 15.0
-Preço final: R$ 12.6
---------------------------
-Produto: Notebook
-Fornecedor: TechGlobal
-NIF: 987654
-País: EUA
-Preço base: R$ 3000.0
-Preço final: R$ 5175.0
---------------------------
+> ```text
+>===== TALÃO DE COMPRA =====
+>Produto: Leite
+>Fornecedor: Fazenda Local
+>NIF: 123456
+>País: Brasil
+>Preço base: R$ 15.0
+>Preço final: R$ 12.6
+>--------------------------
+>Produto: Notebook
+>Fornecedor: TechGlobal
+>NIF: 987654
+>País: EUA
+>Preço base: R$ 3000.0
+>Preço final: R$ 5175.0
+>--------------------------
+>TOTAL A PAGAR: R$ 5187.6
+> ```
 
 ---
 
